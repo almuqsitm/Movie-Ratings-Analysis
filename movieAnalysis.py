@@ -10,13 +10,6 @@ st.set_page_config(
     page_icon="🎬",
     layout="wide",
     initial_sidebar_state="expanded",
-    theme={
-        "primaryColor": "#f63366",
-        "backgroundColor": "#111111",
-        "secondaryBackgroundColor": "#393939",
-        "textColor": "#fafafa",
-        "font": "sans serif",
-    },
 )
 
 
